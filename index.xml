@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index version="1">
+  <package>
+    <name>Neft Bus Solo Toolbar</name>
+    <type>script</type>
+    <author>Neftovsky</author>
+    <version>1.0</version>
+    <about>
+      This script creates a toolbar in Reaper for controlling solo states of specific track groups, 
+      such as "Rythm Bus", "Vocal Bus", "Send Bus", and "Instr Bus".
+    </about>
+    <changelog>
+      <version>1.0</version>
+      Initial release.
+    </changelog>
+    <links>
+      <download>https://github.com/Neftovsky/Neft-Bus-Solo-Toolbar/blob/main/Neft%20Bus%20Solo%20Toolbar.lua</download>
+      <website>https://github.com/Neftovsky</website>
+    </links>
+  </package>
+</index>
